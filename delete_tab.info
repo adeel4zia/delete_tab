@@ -1,0 +1,6 @@
+name = Delete Tab
+description = This is a very small module that adds Delete link as a tab in the node pages.
+backdrop = 1.x
+version = 7.x-1.2
+type = module
+package = Delete Tab
